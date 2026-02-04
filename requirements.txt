@@ -1,17 +1,26 @@
-pip 
+streamlit
+pandas
 matplotlib
 plotly
-pandas
-lasio
-
-streamlit
 Pillow
+lasio
 streamlit-aggrid
-datetime
+
+##before breaking feb 2026 below
+#pip 
+#matplotlib
+#plotly
+#pandas
+#lasio
+
 #streamlit
+#Pillow
+#streamlit-aggrid
+#datetime
+##streamlit
 
 
-
+####even older below
 
 #pip == 22.1.2
 #matplotlib == 3.5.2
